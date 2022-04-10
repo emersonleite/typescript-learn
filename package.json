@@ -1,0 +1,15 @@
+{
+  "name": "curso-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Emerson Leite <emerson.bl@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "s": "live-server & tsc -w"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "systemjs": "0.21.5",
+    "typescript": "^4.5.2"
+  }
+}
