@@ -1,0 +1,1 @@
+# Notas e código baseados em curso de typescript da Cod3r
